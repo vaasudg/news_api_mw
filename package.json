@@ -1,0 +1,21 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "This is middleware for NEWSAPI app",
+  "scripts": {
+    "start:dev": "nodemon",
+    "start": "node ./server"
+  },
+  "keywords": [],
+  "author": "Vasu",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "newsapi": "^2.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
