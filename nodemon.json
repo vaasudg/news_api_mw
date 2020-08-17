@@ -1,0 +1,11 @@
+{
+    "verbose": true,
+    "exec": "node ./server.js",
+    "watch": ["server.js", "src/"],
+    "nodemonConfig": {
+        "ignore": [
+            "*.test.js"
+        ],
+        "delay": "2000"
+    }
+}
