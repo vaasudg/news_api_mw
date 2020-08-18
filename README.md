@@ -7,7 +7,7 @@ This is very basic codebase to generate the data for UK news, also allowing to s
 # Installing
  - Clone this repository by `git clone https://github.com/vaasudg/news_api_mw.git`
  - Go to the cloned folder via your command line and type `$ npm install`
- - Type `$ npm run start:dev` for dev mode or `$ npm srart` for production mode
+ - Type `$ npm run start:dev` for dev mode or `$ npm start` for production mode
  - If you get any npm cache issues, delete `package-lock.json` file and  `node-modules` folder and follow the previous step
 
 # How to use
